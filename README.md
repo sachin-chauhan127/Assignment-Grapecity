@@ -1,2 +1,2 @@
-# Assignment-Grapecity
- Tip calculator
+# Grapecity
+ Tip assignment

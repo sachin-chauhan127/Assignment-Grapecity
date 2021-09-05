@@ -1,0 +1,18 @@
+GRAPECITY
+
+Tip Calculator
+Functional Test Cases:-
+1. Verify that the attributes that should be there are present like Bill, Tip%, etc.
+2. Verify that the attributes need to calculate tip per person have their limit set for example:-
+    tip% never below zero(0). If it is below zero then it doesn’t make sense.
+3. Verify that tip% never be a greater value than 100. It can’t be possible.
+4. Verify that button “number of people” shouldn’t go below 1, because least number of
+    people is one.
+5. Verify that all button working properly or not.
+6. Verify that +/- button increase the values by singlton(1)
+7. Verify that input range is int32 and working perfectly.
+8. Verify that user can’t change output manually.
+9. Verify that output should be correctly calculate.
+10. Verify that float value isn’t creating any problem in program. Check keenly that every float 
+    value is calculating correctly and does not throw errors
+11. Verify that output dynamically changing according to the input.
